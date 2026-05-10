@@ -1,4 +1,4 @@
-# Sydney Cavallin
+# Hi! Welcome inside Sydney’s mind
 
 Computer Science student @ Université Côte d'Azur & École 42 Nice
 Embedded Software Developer — C | C++ | FreeRTOS | ESP32
@@ -10,9 +10,9 @@ Nice, France
 ## About
 
 Embedded software enthusiast focused on low-level development.
-I implement drivers from scratch by reading datasheets, design
-custom communication protocols, and build real-time architectures
-on bare-metal microcontrollers.
+I implement drivers from scratch while eating chips, design
+custom communication protocols in music, and build real-time architectures
+on bare-metal microcontrollers trying to not explose.
 
 Currently deepening my knowledge of FreeRTOS, moving toward
 STM32 and automotive/spatial embedded systems.
@@ -50,12 +50,12 @@ STM32 and automotive/spatial embedded systems.
 ![UART](https://img.shields.io/badge/UART-555555?style=flat)
 ![PWM](https://img.shields.io/badge/PWM-555555?style=flat)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-0085CA?style=flat)
-![CAN](https://img.shields.io/badge/CAN%20(notions)-555555?style=flat)
+![CAN](https://img.shields.io/badge/CAN%20-555555?style=flat)
 
 **Microcontrollers**
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32%20(notions)-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32%20-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 
 ---
 
@@ -111,5 +111,3 @@ Custom IRC server implementing the RFC protocol, multi-client management.
 - STM32 — STM32CubeIDE, HAL drivers
 
 ---
-
-![Sydney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sydthewhistler&show_icons=true&theme=default)
