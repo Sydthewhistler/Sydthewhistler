@@ -1,7 +1,7 @@
 # Hi! Welcome inside Sydney’s mind
 
 Computer Science student @ Université Côte d'Azur & École 42 Nice
-Embedded Software Developer — C | C++ | FreeRTOS | ESP32
+Software Developer, Systems & Networks — C | C++ | FreeRTOS | ESP32
 Actually looking for a 2-year apprenticeship 
 Nice, France
 
