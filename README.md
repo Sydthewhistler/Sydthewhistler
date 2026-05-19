@@ -2,15 +2,15 @@
 
 Computer Science student @ Université Côte d'Azur & École 42 Nice
 Embedded Software Developer — C | C++ | FreeRTOS | ESP32
-Looking for a 2-year apprenticeship in embedded software development
+Actually looking for a 2-year apprenticeship 
 Nice, France
 
 ---
 
 ## About
 
-Embedded software enthusiast focused on low-level development.
-I implement drivers from scratch while eating chips, design
+Software and system enthusiast focused on low-level development.
+I implement drivers and applications from scratch while eating chips, design
 custom communication protocols in music, and build real-time architectures
 on bare-metal microcontrollers trying to not explose.
 
