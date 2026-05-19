@@ -86,26 +86,38 @@ real-time OLED display. Fully non-blocking architecture.
 
 ---
 
-### 42 School Projects
+### Systems Programming
 
-**push_swap** — Sorting algorithm in C using two stacks.
-Optimized instruction sequence to sort a stack with minimal moves.
+**IRC** — Internet Relay Chat server in C++  
+Custom IRC server implementing the RFC protocol, multi-client management.
 
-**philosophers** — Dining philosophers problem.
-Concurrency, mutex, threads — race condition management in C.
-
-**miniRT** — Ray tracer in C.
-3D rendering engine from scratch : rays, lighting, shadows, reflections.
-
-**minishell** — Unix shell implementation in C.
-Custom Bash-like shell : command parsing, pipes, redirections,
+**minishell** — Unix shell implementation in C  
+Custom Bash-like shell: command parsing, pipes, redirections,  
 environment variables, signal handling.
 
-**FdF** — Wireframe 3D map renderer.
-Isometric projection of height maps using MiniLibX.
+---
 
-**IRC** — Internet Relay Chat server in C++.
-Custom IRC server implementing the RFC protocol, multi-client management.
+### Algorithms
+
+**push_swap** — Sorting algorithm in C using two stacks  
+Optimized instruction sequence to sort a stack with minimal moves.
+
+---
+
+### Concurrency
+
+**philosophers** — Dining philosophers problem  
+Concurrency, mutex, threads — race condition management in C.
+
+---
+
+### Computer Graphics
+
+**miniRT** — Ray tracer in C  
+3D rendering engine from scratch: rays, lighting, shadows, reflections.
+
+**FdF** — Wireframe 3D map renderer  
+Isometric projection of height maps using MiniLibX.
 
 ---
 
